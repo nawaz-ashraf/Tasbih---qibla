@@ -1,0 +1,10 @@
+<!-- /Users/nawazashraf/Downloads/nawaz/Nawaz2/project/Tasbih & qibla/assets/icons/kaaba.svg -->
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="32" fill="#E8EAF0"/>
+  <rect x="30" y="22" width="68" height="84" rx="8" fill="#1E2130"/>
+  <rect x="30" y="22" width="68" height="14" rx="6" fill="#E2B13C"/>
+  <rect x="45" y="48" width="38" height="58" rx="4" fill="#111522"/>
+  <rect x="54" y="56" width="20" height="8" rx="4" fill="#4CAF82"/>
+  <circle cx="64" cy="14" r="8" fill="#4CAF82"/>
+  <path d="M64 2C60 2 56.5 4.2 54.8 7.5C56.3 6.7 58.1 6.2 60 6.2C64.9 6.2 68.8 10.1 68.8 15C68.8 16.9 68.2 18.7 67.4 20.2C70.8 18.5 73 15 73 11C73 6 69 2 64 2Z" fill="#4CAF82"/>
+</svg>
