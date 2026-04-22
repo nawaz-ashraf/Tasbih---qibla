@@ -1,0 +1,9 @@
+# app-ads.txt for Tasbih & Qibla
+# Developer: Nawaz Ashraf
+# Contact: Sr.nawaz446@gmail.com
+# Generated: 2026-04-22
+#
+# Format: <ad network domain>, <publisher ID>, <relationship>, <certification authority ID>
+# Reference: https://support.google.com/admob/answer/9787936
+
+google.com, pub-4392358942856616, DIRECT, f08c47fec0942fa0

@@ -6,23 +6,23 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 class AdService extends ChangeNotifier {
   static String get _bannerAdUnitId {
     if (Platform.isAndroid) {
-      return 'ca-app-pub-3940256099942544/6300978111';
+      return 'ca-app-pub-4392358942856616/5366391830';
     }
-    return 'ca-app-pub-3940256099942544/2934735716';
+    return 'ca-app-pub-4392358942856616/5366391830'; // iOS placeholder
   }
 
   static String get _interstitialAdUnitId {
     if (Platform.isAndroid) {
-      return 'ca-app-pub-3940256099942544/1033173712';
+      return 'ca-app-pub-4392358942856616/3311074132';
     }
-    return 'ca-app-pub-3940256099942544/4411468910';
+    return 'ca-app-pub-4392358942856616/3311074132'; // iOS placeholder
   }
 
   static String get _appOpenAdUnitId {
     if (Platform.isAndroid) {
-      return 'ca-app-pub-3940256099942544/9257395921';
+      return 'ca-app-pub-4392358942856616/2081752943';
     }
-    return 'ca-app-pub-3940256099942544/5575463023';
+    return 'ca-app-pub-4392358942856616/2081752943'; // iOS placeholder
   }
 
   BannerAd? _bannerAd;
