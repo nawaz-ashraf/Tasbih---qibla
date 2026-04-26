@@ -19,7 +19,7 @@ val hasReleaseKeystore =
         rootProject.file(releaseStoreFilePath).exists()
 
 android {
-    namespace = "com.yourcompany.tasbih_qibla"
+    namespace = "com.nawazashraf.tasbih_qibla"
     compileSdk = 36
     ndkVersion = flutter.ndkVersion
 
@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.yourcompany.tasbih_qibla"
+        applicationId = "com.nawazashraf.tasbih_qibla"
         minSdk = flutter.minSdkVersion
         targetSdk = 36
         versionCode = flutter.versionCode

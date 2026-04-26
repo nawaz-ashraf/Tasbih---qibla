@@ -1,4 +1,4 @@
-package com.yourcompany.tasbih_qibla
+package com.nawazashraf.tasbih_qibla
 
 import io.flutter.embedding.android.FlutterActivity
 
